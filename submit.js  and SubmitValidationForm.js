@@ -1,4 +1,4 @@
-//Submit.js//
+// Submit.js //
 
 import { SubmissionError } from 'redux-form'
 
